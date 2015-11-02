@@ -1,4 +1,4 @@
-ruby <file_name> <csv_name> <word>
+#ruby <file_name> <csv_name> <word>
 require 'csv'
 
 my = [[],[]]
